@@ -18,23 +18,23 @@ Learners will understand:
 
 Learners will be able to:
 
-- Use Pandas' data structures
+- Create and modify Pandas' data structures
 - Apply Pandas' indexing and selection
-- Applying function and mapping in Pandas
+- Apply function and mapping in Pandas
 - Sort and rank data in Pandas
 
 ## Lesson Plan
 
-| Duration | What                    | How or Why                                                  |
-| -------- | ----------------------- | ----------------------------------------------------------- |
-| - 5mins  | Start zoom session      | So that learners can join early and start class on time.    |
-| 20 mins  | Activity                | Recap on self-study and prework materials.                  |
-| 40 mins  | Code-along              | Introduction to Pandas series and dataframes.               |
+| Duration | What                    | How or Why                                                          |
+| -------- | ----------------------- | ------------------------------------------------------------------- |
+| - 5mins  | Start zoom session      | So that learners can join early and start class on time.            |
+| 20 mins  | Activity                | Recap on self-study and prework materials.                          |
+| 40 mins  | Code-along              | Introduction to Pandas series and dataframes.                       |
 |          | **1 HR MARK**           |
-| 30 mins  | Code-along              | Apply Pandas indexing, reindexing, selection and filtering. |
+| 30 mins  | Code-along              | Introduction to Pandas index and reindexing.                        |
 | 10 mins  | Break                   |
-| 20 mins  | Code-along              | Applying function and mapping in Pandas.                    |
+| 20 mins  | Code-along              | Apply selection and filtering in Pandas.                            |
 |          | **2 HR MARK**           |
-| 50 mins  | Code-along              | Sort and rank data in Pandas.                               |
-| 10 mins  | Briefing / Q&A          | Brief on references, assignment, quiz and Q&A.              |
+| 50 mins  | Code-along              | Apply function and mapping in Pandas. Sort and rank data in Pandas. |
+| 10 mins  | Briefing / Q&A          | Brief on references, assignment, quiz and Q&A.                      |
 |          | **END CLASS 3 HR MARK** |
